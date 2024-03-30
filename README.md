@@ -3,15 +3,21 @@
 Contains various class resources that will be added as the course progresses.
 
 - [Resources](#resources)
-  - [IntelliJ IDEA](#intellij-idea)
-    - [Plugins](#plugins)
-  - [Visual Studio Code (VS code)](#visual-studio-code-vs-code)
-    - [Extensions](#extensions)
+  - [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
+    - [IntelliJ IDEA](#intellij-idea)
+      - [Plugins](#plugins)
+    - [Visual Studio Code (VS code)](#visual-studio-code-vs-code)
+      - [Extensions](#extensions)
   - [Markdown Resources](#markdown-resources)
   - [Git and Github](#git-and-github)
+  - [Gradle](#gradle)
 
 
-## IntelliJ IDEA
+## Integrated Development Environments (IDEs)
+
+We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. We recommend you install them both, and try out which one you like best. Make sure to restart your computer after installing them, as they modify your path and environment variables.
+
+### IntelliJ IDEA
 
 IntelliJ IDEA is a popular IDE (integrated development environment) for Java development. It has many features that make it a great choice for Java development. However, it is also a very large development environment and can be overwhelming at first. For this class, we are not requiring *which* IDE you use, but we do require that you use an IDE that supports Java development. 
 
@@ -22,7 +28,7 @@ You can then download the ultimate edition from [JetBrains Download](https://www
 It is also a popular choice to use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) to manage your IDEs. If you use the toolbox, it is better to install the ultimate edition from the toolbox, as then it will be managed by the toolbox. 
 
 
-### Plugins
+#### Plugins
 Here are some plugins for IntelliJ IDEA if you are using it for Java development:
 
 * [IntelliJ Mermaid Plugin](https://plugins.jetbrains.com/plugin/20146-mermaid)
@@ -30,14 +36,14 @@ Here are some plugins for IntelliJ IDEA if you are using it for Java development
 
 To find where to install plugins in IntelliJ IDEA, go to `File -> Settings -> Plugins` and search for the plugin you want to install. 
 
-## Visual Studio Code (VS code)
+### Visual Studio Code (VS code)
 
 VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
 
 Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
 
 
-### Extensions
+#### Extensions
 Here are some extensions for VS Code if you are using it for Java development:
 
 * [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) 
@@ -65,3 +71,12 @@ To find where to install extensions in VS Code, go to the extensions tab on the 
 * [Visualizing Git](http://git-school.github.io/visualizing-git/) is useful for learners who want to know what is going on behind the scenes
 
 As a reminder, git is installed by default on many Mac and Linux systems, but on windows you may need to install it. You can find the download for git at [Git Download](https://git-scm.com/downloads).
+
+## Gradle
+
+We will use gradle for our build system for the course. By default if you install IntelliJ IDEA, it will come with gradle. If you are using VS Code, you may need to install it separately (though installing both IntelliJ and VS Code is not a bad idea as you can test which one you want). It is important to have VS Code Gradle extension installed if you are using VS Code.
+
+For the most part you will not need to edit any gradle files. You just need it installed to run the tests.
+
+* [Gradle Official Site](https://gradle.org/) 
+* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
