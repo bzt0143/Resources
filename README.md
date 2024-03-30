@@ -2,6 +2,14 @@
 
 Contains various class resources that will be added as the course progresses.
 
+- [Resources](#resources)
+  - [IntelliJ IDEA](#intellij-idea)
+    - [Plugins](#plugins)
+  - [Visual Studio Code (VS code)](#visual-studio-code-vs-code)
+    - [Extensions](#extensions)
+  - [Markdown Resources](#markdown-resources)
+  - [Git and Github](#git-and-github)
+
 
 ## IntelliJ IDEA
 
@@ -37,6 +45,7 @@ Here are some extensions for VS Code if you are using it for Java development:
 * [Mermaid Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 * [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 To find where to install extensions in VS Code, go to the extensions tab on the left side of the screen and search for the extension you want to install.
 
