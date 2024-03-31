@@ -61,6 +61,8 @@ To find where to install extensions in VS Code, go to the extensions tab on the 
 
 ## Markdown Resources
 
+We will use markdown for our reports in this class. Here are some resources to help you get started with markdown. Mermaid is a useful tool for creating diagrams in markdown.
+
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 * [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Github Markdown Getting Started](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -68,6 +70,9 @@ To find where to install extensions in VS Code, go to the extensions tab on the 
 
 
 ## Git and Github
+You will be using Github classroom, which requires a github.com account (not to be confused with Khoury College's Github Enterprise account). You will need to know how to use git to submit your assignments. Here are some resources to help you get started with git. For the most part, you are welcome (and encouraged) to use the built in IDE features for git, but it is good to know how to use the command line as well.
+
+
 * [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) - a LinkedIn Learning guide
 * [MIT's Missing Semester of your CS Education lecture and text explainer on git](https://missing.csail.mit.edu/2020/version-control/)
 * [Head First Git](https://learning.oreilly.com/library/view/head-first-git/9781492092506/), book: Available on O'Reilly
