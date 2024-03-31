@@ -17,6 +17,8 @@ Contains various class resources that will be added as the course progresses.
 
 We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. We recommend you install them both, and try out which one you like best. Make sure to restart your computer after installing them, as they modify your path and environment variables.
 
+Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
+
 ### IntelliJ IDEA
 
 IntelliJ IDEA is a popular IDE (integrated development environment) for Java development. It has many features that make it a great choice for Java development. However, it is also a very large development environment and can be overwhelming at first. For this class, we are not requiring *which* IDE you use, but we do require that you use an IDE that supports Java development. 
@@ -40,8 +42,10 @@ To find where to install plugins in IntelliJ IDEA, go to `File -> Settings -> Pl
 
 VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
 
-Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
 
+
+
+To install Visual Studio Code, go to [VS Code Download](https://code.visualstudio.com/download) and download the version for your operating system. You can also install it from the Microsoft Store if you are on Windows.
 
 #### Extensions
 Here are some extensions for VS Code if you are using it for Java development:
