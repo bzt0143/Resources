@@ -11,6 +11,9 @@ Contains various class resources that will be added as the course progresses.
   - [Markdown Resources](#markdown-resources)
   - [Git and Github](#git-and-github)
   - [Gradle](#gradle)
+  - [Java and OOD](#java-and-ood)
+    - [Java Programming](#java-programming)
+    - [Object Oriented Design](#object-oriented-design)
 
 
 ## Integrated Development Environments (IDEs)
@@ -89,3 +92,21 @@ For the most part you will not need to edit any gradle files. You just need it i
 
 * [Gradle Official Site](https://gradle.org/) 
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
+
+
+## Java and OOD
+The following resources for Java Programming and Object Oriented Design are optional, but it is recommended you take a look at them. 
+
+### Java Programming
+* [Head First Java](https://learning.oreilly.com/library/view/head-first-java/9781492091646/) - A popular java programming book. You will need to login with your Northeastern credentials to access this book, but you can access it for free if you do.
+* [W3 Schools Java Tutorial](https://www.w3schools.com/java/) - A starting point for learning Java Syntax
+* [Java API Specification](https://docs.oracle.com/en/java/javase/22/docs/api/index.html) - The official Java API documentation, you will likely come across it in your searches.
+* [Java Collections Framework](https://docs.oracle.com/en/java/javase/22/docs/api/java.base/java/util/doc-files/coll-index.html) - The Collections Framework is one of many set of classes built into java that you will use often. In particular, ArrayList, LinkedList, and HashMap are very common.
+
+
+
+### Object Oriented Design
+
+* [Clean Code](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/) - You will need to login with your Northeastern credentials to access this book, but you can access it for free if you do. This is considered the *standard* on writing clean code in an industry environment.
+* [Head First Deisgn Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) - This is an ADVANCED resource, recommended for later in the semester. Also an O'Reilly book, so you will need to login with your Northeastern credentials to access it.
+* [Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8) - Slightly advanced theory/concept understanding of OOP.
