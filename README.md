@@ -11,6 +11,7 @@ Contains various class resources that will be added as the course progresses.
   - [Markdown Resources](#markdown-resources)
   - [Git and Github](#git-and-github)
   - [Gradle](#gradle)
+  - [Accessing O'Reilly Online Resources](#accessing-oreilly-online-resources)
   - [Java and OOD](#java-and-ood)
     - [Java Programming](#java-programming)
     - [Object Oriented Design](#object-oriented-design)
@@ -93,6 +94,16 @@ For the most part you will not need to edit any gradle files. You just need it i
 * [Gradle Official Site](https://gradle.org/) 
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html)
 
+
+## Accessing O'Reilly Online Resources
+
+As students at NU, you have access to a very awesome resource: O'Reilly Online. 
+
+To access it, and all the above textbooks:
+1. Go to NU's library page for computer science here: https://subjectguides.lib.neu.edu/compsci. 
+2. In the lower left hand corner, click on "Connect to O'Reilly", which will take you here https://www.oreilly.com/library/view/temporary-access/  
+3. Select "Not listed".
+4. Put in your northeastern.edu email
 
 ## Java and OOD
 The following resources for Java Programming and Object Oriented Design are optional, but it is recommended you take a look at them. 
