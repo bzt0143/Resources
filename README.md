@@ -10,6 +10,7 @@ Contains various class resources that will be added as the course progresses.
       - [Extensions](#extensions)
   - [Markdown Resources](#markdown-resources)
   - [Git and Github](#git-and-github)
+    - [More Advanced Git Resources](#more-advanced-git-resources)
   - [Gradle](#gradle)
   - [Accessing O'Reilly Online Resources](#accessing-oreilly-online-resources)
   - [Java and OOD](#java-and-ood)
@@ -78,10 +79,16 @@ You will be using Github classroom, which requires a github.com account (not to 
 
 
 * [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code) - a LinkedIn Learning guide
-* [MIT's Missing Semester of your CS Education lecture and text explainer on git](https://missing.csail.mit.edu/2020/version-control/)
-* [Head First Git](https://learning.oreilly.com/library/view/head-first-git/9781492092506/), book: Available on O'Reilly
 * [Github Basics](https://guides.github.com/introduction/git-handbook/), a guide for learning GitHub
+* [Using Github with VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git) - A guide on how to use Github with VS Code
+* [IntelliJ Github Documentation](https://www.jetbrains.com/help/idea/github.html) - A guide on how to use Github with IntelliJ IDEA
+
+
+### More Advanced Git Resources
+* [Head First Git](https://learning.oreilly.com/library/view/head-first-git/9781492092506/), book: Available on O'Reilly
+* [MIT's Missing Semester of your CS Education lecture and text explainer on git](https://missing.csail.mit.edu/2020/version-control/)
 * [Visualizing Git](http://git-school.github.io/visualizing-git/) is useful for learners who want to know what is going on behind the scenes
+
 
 As a reminder, git is installed by default on many Mac and Linux systems, but on windows you may need to install it. You can find the download for git at [Git Download](https://git-scm.com/downloads).
 
