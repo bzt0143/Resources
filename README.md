@@ -82,6 +82,7 @@ You will be using Github classroom, which requires a github.com account (not to 
 * [Github Basics](https://guides.github.com/introduction/git-handbook/), a guide for learning GitHub
 * [Using Github with VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git) - A guide on how to use Github with VS Code
 * [IntelliJ Github Documentation](https://www.jetbrains.com/help/idea/github.html) - A guide on how to use Github with IntelliJ IDEA
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - A guide on how to write commit messages that are both human and machine readable. 
 
 
 ### More Advanced Git Resources
