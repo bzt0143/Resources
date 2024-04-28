@@ -128,7 +128,7 @@ The following resources for Java Programming and Object Oriented Design are opti
 ### Object Oriented Design
 
 * [Clean Code](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/) - You will need to login with your Northeastern credentials to access this book, but you can access it for free if you do. This is considered the *standard* on writing clean code in an industry environment.
-* [Head First Deisgn Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) - This is an ADVANCED resource, recommended for later in the semester. Also an O'Reilly book, so you will need to login with your Northeastern credentials to access it.
+* [Head First Design Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) - This is an ADVANCED resource, recommended for later in the semester. Also an O'Reilly book, so you will need to login with your Northeastern credentials to access it.
 * [Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8) - Slightly advanced theory/concept understanding of OOP.
 
 ## UML Design Tools
