@@ -16,7 +16,7 @@ Contains various class resources that will be added as the course progresses.
   - [Java and OOD](#java-and-ood)
     - [Java Programming](#java-programming)
     - [Object Oriented Design](#object-oriented-design)
-    - [UML Design Tools](#uml-design-tools)
+  - [UML Design Tools](#uml-design-tools)
 
 
 ## Integrated Development Environments (IDEs)
@@ -131,7 +131,7 @@ The following resources for Java Programming and Object Oriented Design are opti
 * [Head First Deisgn Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) - This is an ADVANCED resource, recommended for later in the semester. Also an O'Reilly book, so you will need to login with your Northeastern credentials to access it.
 * [Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8) - Slightly advanced theory/concept understanding of OOP.
 
-### UML Design Tools
+## UML Design Tools
 
 * [Mermaid Class Diagrams](https://mermaid.js.org/syntax/classDiagram.html) - The recommended tool for this class. All our examples will be in mermaid. 
 * [draw.io](https://app.diagrams.net/) - A free online tool for creating diagrams, though very expansive and can be overwhelming.
