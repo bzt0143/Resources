@@ -16,6 +16,7 @@ Contains various class resources that will be added as the course progresses.
   - [Java and OOD](#java-and-ood)
     - [Java Programming](#java-programming)
     - [Object Oriented Design](#object-oriented-design)
+    - [UML Design Tools](#uml-design-tools)
 
 
 ## Integrated Development Environments (IDEs)
@@ -129,3 +130,10 @@ The following resources for Java Programming and Object Oriented Design are opti
 * [Clean Code](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/) - You will need to login with your Northeastern credentials to access this book, but you can access it for free if you do. This is considered the *standard* on writing clean code in an industry environment.
 * [Head First Deisgn Patterns](https://learning.oreilly.com/library/view/head-first-design/9781492077992/) - This is an ADVANCED resource, recommended for later in the semester. Also an O'Reilly book, so you will need to login with your Northeastern credentials to access it.
 * [Object Oriented Programming is not what I thought - Talk by Anjana Vakil](https://www.youtube.com/watch?v=TbP2B1ijWr8) - Slightly advanced theory/concept understanding of OOP.
+
+### UML Design Tools
+
+* [Mermaid Class Diagrams](https://mermaid.js.org/syntax/classDiagram.html) - The recommended tool for this class. All our examples will be in mermaid. 
+* [draw.io](https://app.diagrams.net/) - A free online tool for creating diagrams, though very expansive and can be overwhelming.
+* [Violet UML Editor](http://alexdp.free.fr/violetumleditor/page.php) - A free UML editor that is a bit more lightweight than draw.io.
+* [UMlet](https://www.umlet.com/) - Another free UML editor that is lightweight.
