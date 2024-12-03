@@ -4,10 +4,10 @@ Contains various class resources that will be added as the course progresses.
 
 - [Resources](#resources)
   - [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
+    - [Recommended - Visual Studio Code (VS code)](#recommended---visual-studio-code-vs-code)
+      - [Extensions](#extensions)
     - [IntelliJ IDEA](#intellij-idea)
       - [Plugins](#plugins)
-    - [Visual Studio Code (VS code)](#visual-studio-code-vs-code)
-      - [Extensions](#extensions)
   - [Markdown Resources](#markdown-resources)
   - [Git and Github](#git-and-github)
     - [More Advanced Git Resources](#more-advanced-git-resources)
@@ -24,6 +24,29 @@ Contains various class resources that will be added as the course progresses.
 We do not have a required IDE for this class. Two recommended ones are IntelliJ and VS Code. We recommend you install them both, and try out which one you like best. Make sure to restart your computer after installing them, as they modify your path and environment variables.
 
 Different professors lean towards different IDEs, Dr. Lionelle leans towards VS Code for his own work, but does not require you to use it. Even the TAs will use different IDEs. The choice is yours. 
+
+
+
+### Recommended - Visual Studio Code (VS code)
+
+VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
+
+
+
+
+To install Visual Studio Code, go to [VS Code Download](https://code.visualstudio.com/download) and download the version for your operating system. You can also install it from the Microsoft Store if you are on Windows.
+
+#### Extensions
+Here are some extensions for VS Code if you are using it for Java development:
+
+* [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) 
+* [Gradle For Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
+* [Mermaid Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+To find where to install extensions in VS Code, go to the extensions tab on the left side of the screen and search for the extension you want to install.
 
 ### IntelliJ IDEA
 
@@ -44,26 +67,6 @@ Here are some plugins for IntelliJ IDEA if you are using it for Java development
 
 To find where to install plugins in IntelliJ IDEA, go to `File -> Settings -> Plugins` and search for the plugin you want to install. 
 
-### Visual Studio Code (VS code)
-
-VS Code is another popular choice for Java development. It is a lightweight IDE that is easy to use and has many features that make it a great choice for Java development. Where IntelliJ IDEA focuses on a contained environment, VS Code focuses on module extensions for everything it does. As such, you will find there are more extensions. Due to this module based design along with it being completely free, VS Code has gained in popularity over the years. 
-
-
-
-
-To install Visual Studio Code, go to [VS Code Download](https://code.visualstudio.com/download) and download the version for your operating system. You can also install it from the Microsoft Store if you are on Windows.
-
-#### Extensions
-Here are some extensions for VS Code if you are using it for Java development:
-
-* [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) 
-* [Gradle For Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
-* [Mermaid Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
-* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
-* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
-* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-
-To find where to install extensions in VS Code, go to the extensions tab on the left side of the screen and search for the extension you want to install.
 
 ## Markdown Resources
 
