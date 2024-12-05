@@ -17,6 +17,7 @@ Contains various class resources that will be added as the course progresses.
     - [Java Programming](#java-programming)
     - [Object Oriented Design](#object-oriented-design)
   - [UML Design Tools](#uml-design-tools)
+  - [CoPilot](#copilot)
 
 
 ## Integrated Development Environments (IDEs)
@@ -140,3 +141,13 @@ The following resources for Java Programming and Object Oriented Design are opti
 * [draw.io](https://app.diagrams.net/) - A free online tool for creating diagrams, though very expansive and can be overwhelming.
 * [Violet UML Editor](http://alexdp.free.fr/violetumleditor/page.php) - A free UML editor that is a bit more lightweight than draw.io.
 * [UMlet](https://www.umlet.com/) - Another free UML editor that is lightweight.
+
+
+## CoPilot
+
+You are encouraged to use Copilot starting with homework 03 - **for syntax help**. You will find if you give too much to copilot it will break the design patterns you are trying to learn. Before you use copilot, we encourage you to follow this online guide. 
+
+* [GitHub Copilot Fundamentals - Understand the AI pair programmer](https://learn.microsoft.com/en-us/training/paths/copilot/)
+* [Responsible AI with Github Copilot](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/) - important!
+
+This only works if you really understand what is being generated. However, it can be a benefit for rote actions such as setting up your tests. 
